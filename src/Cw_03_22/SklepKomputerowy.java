@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 public class SklepKomputerowy {
     private Produkt[] produkty = new Produkt[10];
     private Klient[] klienci = new Klient[10];

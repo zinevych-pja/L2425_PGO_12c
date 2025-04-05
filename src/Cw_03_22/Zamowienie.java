@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 public class Zamowienie {
     private int id;
     private Klient klient;

@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 public class Main {
     public static void main(String[] args) {
         // Tworzymy instancję sklepu komputerowego
@@ -62,9 +64,9 @@ public class Main {
 //        System.out.println("\nStatus zamówienia po aktualizacji:");
 //        zamowienie1.wyswietlSzczegoly();
 //// Dodanie kolejnego zamówienia
-//        Produkt[] produktyZamowienia2 = {produkt3, produkt2};
+//        Cw_22_03.Produkt[] produktyZamowienia2 = {produkt3, produkt2};
 //        int[] ilosciZamowienia2 = {2, 1};
-//        Zamowienie zamowienie2 = sklep.utworzZamowienie(klient2, produktyZamowienia2, ilosciZamowienia2);
+//        Cw_22_03.Zamowienie zamowienie2 = sklep.utworzZamowienie(klient2, produktyZamowienia2, ilosciZamowienia2);
 //        sklep.aktualizujStanMagazynowy(zamowienie2);
 //// Wyświetlanie zamówień klienta
 //        System.out.println("\nZamówienia klienta Jan Kowalski:");

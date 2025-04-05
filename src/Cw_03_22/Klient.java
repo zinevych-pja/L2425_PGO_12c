@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 public class Klient {
     private int id;
     private String imie;
